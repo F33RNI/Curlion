@@ -21,10 +21,10 @@ This project was developed for my own needs. The project has no real meaning and
 ----------
 
 ## Feedback
-- Developer: Frey Hertz (Pavel Neshumov)
+- Developer: Fern Lane
 - E-Mail: xxoinvizionxx@gmail.com
-- GitHub: https://github.com/XxOinvizioNxX
-- Twitter: https://twitter.com/frey_hertz
+- GitHub: https://github.com/F33RNI
+- Twitter: https://twitter.com/f33rni
 
 ----------
 
