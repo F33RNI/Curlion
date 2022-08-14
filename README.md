@@ -2,7 +2,7 @@
 
 ![Photo](PHOTO.jpg "Photo")
 
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Ffrey_hertz)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Ftwitter.com%2Ffrey_hertz)
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Ff33rni)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Ftwitter.com%2Ff33rni)
 [![GitHub license](https://img.shields.io/github/license/XxOinvizioNxX/Curlion)](https://github.com/XxOinvizioNxX/Curlion/blob/main/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/XxOinvizioNxX/Curlion)](https://github.com/XxOinvizioNxX/Curlion/stargazers)
 
